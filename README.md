@@ -2,7 +2,7 @@
 
 We will create a classification model that can predict whether or not a person has heart disease based on that person's physical characteristics (age, gender, cholesterol, etc.).
 
-Author: Kévin Bourdon
+Author: Kevin Bourdon
 
 ## Dependencies
 
@@ -30,5 +30,5 @@ Open "main.ipynb".
 
 ## Contact
 
-For questions or comments, please contact [Kévin Bourdon](mailto:kevin.bourdon.etu@univ-lille.fr). I would love
+For questions or comments, please contact [Kevin Bourdon](mailto:kevin.bourdon@kedgebs.com). I would love
 to hear from you.
